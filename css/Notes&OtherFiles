@@ -1,0 +1,8 @@
+Additional style coding, directly in the Carousel template. Note: major amendments have been applied to the slideshow section, in order to keep images centered while resizing them. All images are either taken from the Ethereum.org website or original creations.
+
+Other Cascading Style Sheets, taken from Bootstrap 3 and not modified (thus not included in this folder) are listed below:
+
+bootstrap.css
+bootstrap-theme.css
+bootstrap.min.css
+bootstrap-theme.min.css
